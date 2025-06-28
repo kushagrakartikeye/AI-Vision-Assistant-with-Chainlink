@@ -4,7 +4,7 @@
 ![Chainlink](https://img.shields.io/badge/Chainlink-VRF-green)
 ![Ethereum](https://img.shields.io/badge/Ethereum-Sepolia-purple)
 
-# 🔥 Hackathon Project Overview
+## 🔥 Hackathon Project Overview ##
 
 An advanced AI assistant combining computer vision, facial recognition, and blockchain technology. Features real-time crypto data feeds via Chainlink and verifiably random NFT generation using Chainlink VRF.
 
