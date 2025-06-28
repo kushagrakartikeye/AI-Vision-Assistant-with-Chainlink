@@ -1,0 +1,19 @@
+# Environment
+venv/
+face_env/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vs/
+.vscode/
+
+# Project specific
+known_faces/
+saved_art/
+*.pt
+*.bin
