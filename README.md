@@ -8,7 +8,7 @@
 
 An advanced AI assistant combining computer vision, facial recognition, and blockchain technology. Features real-time crypto data feeds via Chainlink and verifiably random NFT generation using Chainlink VRF.
 
-# ✨ Key Features
+### ✨ Key Features ###
 
 - **Real-time Face Recognition** with YOLOv8
 - **AI Art Generation** (Pencil sketches, Pixel art, Stable Diffusion)
@@ -17,7 +17,7 @@ An advanced AI assistant combining computer vision, facial recognition, and bloc
 - **Voice Assistant** with speech recognition
 - **IPFS Storage** for decentralized NFT metadata
 
-# 🛠️ Technologies
+### 🛠️ Technologies ###
 
 | Component | Technology |
 |-----------|------------|
@@ -26,7 +26,7 @@ An advanced AI assistant combining computer vision, facial recognition, and bloc
 | Storage | IPFS (Pinata) |
 | APIs | Stability AI, OpenRouter |
 
-# 🚀 Quick Start
+### 🚀 Quick Start ###
 
 1. **Clone repository**
 git clone https://github.com/kushagrakartikeye/AI-Vision-Assistant-with-Chainlink.git
@@ -51,17 +51,17 @@ python main.py
 
 text
 
-# 🔗 Blockchain Details
+### 🔗 Blockchain Details ###
 
 - **Contract**: `0xE04C1491d38C4e9C4611E2D7AB1FB23422898735`
 - **Network**: Ethereum Sepolia Testnet
 - **VRF Subscription**: `823483...7559`
 
-# 📸 Demo
+### 📸 Demo ###
 
 [Add screenshots here]
 
-# 🏆 Hackathon Submission
+### 🏆 Hackathon Submission ###
 
 This project demonstrates:
 - ✅ Chainlink VRF integration for verifiable randomness
