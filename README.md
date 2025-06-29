@@ -6,7 +6,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8-orange)
 ![Stability AI](https://img.shields.io/badge/Stability%20AI-SD3-lightgrey)
 
-An advanced AI assistant combining computer vision, facial recognition, blockchain technology, and conversational AI. Features real-time crypto data feeds via Chainlink and verifiably random NFT generation using Chainlink VRF.
+An  AI assistant combining computer vision, facial recognition, blockchain technology, and conversational AI. Features real-time crypto data feeds via Chainlink and verifiably random NFT generation using Chainlink VRF. Stores sketches (pixel or pencil style) created of faces as NFTs. Can also communicate through speech. 
 
 ---
 
