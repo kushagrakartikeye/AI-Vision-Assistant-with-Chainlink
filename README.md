@@ -86,10 +86,21 @@ text
 
 ## 📸 Demo
 
-![Face Detection](docs/screenshots/faces.png)
-![NFT Minting](docs/screenshots/minting.png)
-![Crypto Dashboard](docs/screenshots/dashboard.png)
-
+Screenshot	Description
+![Interface](screenshots Main Interface: The application's main dashboard, showing the AI Vision Assistant GUI with live camera feed, chat window, and controls.	
+![art_generation_prompt](screenshots/art_generation AI Art Generation Prompt: User entering a text prompt to generate AI art using Stability AI.	
+![chatbot_description](screenshots/chatbot_description:** The chatbot interface, demonstrating contextual AI conversation and assistant capabilities.	
+![chatbot_uniqueness](screenshots/chatbot_uni Chatbot Uniqueness: Highlights the chatbot's unique, context-aware responses and integration with vision features.	
+![enviorment_description](screenshots/enviorment_description:** Shows how the assistant can describe the user's environment and detected objects.	
+![generated_art1](screenshots Generated AI Art #1: Example output from the AI art generator, demonstrating creative image synthesis.	
+![generated_art2](screenshots Generated AI Art #2: Another example of AI-generated artwork, showing the diversity of styles possible.	
+![generation_success](screenshots/generation_success Success:** Confirmation message after successful AI art or sketch generation.	
+![new_register](screenshots New Face Registration: The process of registering a new user’s face in the system, with blockchain integration.	
+![object_detection](screenshots/object_detection.jpg:** Live detection and labeling of objects in the camera feed using YOLOv8.	
+![object_recogniton_animal](screenshots/object_recogn Object Recognition (Animal): The system detects and recognizes animals in the camera frame.	
+![pinata_dashboard](screenshots/pinata_dashboard.jpg:** Shows the Pinata IPFS dashboard where NFT images and metadata are stored.	
+![registered_faces](screenshots/registered_faces.jpg:** List of users whose faces are registered and recognized by the assistant.	
+![sketch_generation](screenshots/sketch_generation:** Example of a pencil or pixel sketch generated from a detected face.
 ---
 
 ## 🏆 Hackathon Submission
