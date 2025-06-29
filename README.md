@@ -39,10 +39,15 @@ Here’s every major feature and capability of this project:
 
 AI-Vision-Assistant-with-Chainlink/
 ├── src/ # All source code and contract ABI
+
 ├── screenshots/ # screenshots for demo
+
 ├── requirements.txt # Python dependencies
+
 ├── .env.example # Environment variable template
+
 ├── .gitignore # Files/directories to ignore
+
 └── README.md # Project documentation
 
 
