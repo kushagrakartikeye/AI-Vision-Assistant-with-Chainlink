@@ -39,13 +39,12 @@ Here’s every major feature and capability of this project:
 
 AI-Vision-Assistant-with-Chainlink/
 ├── src/ # All source code and contract ABI
-├── docs/ # Documentation, screenshots, and demos
+├── screenshots/ # screenshots for demo
 ├── requirements.txt # Python dependencies
 ├── .env.example # Environment variable template
 ├── .gitignore # Files/directories to ignore
 └── README.md # Project documentation
 
-text
 
 ---
 
@@ -127,7 +126,3 @@ This project demonstrates:
 - ✅ Modern Python GUI with blockchain backend
 
 Built for **Chainlink Chromium Hackathon**.
-
----
-
-> **Tip:** Replace the screenshot paths with actual images in your `docs/screenshots/` folder for the best presentation!
