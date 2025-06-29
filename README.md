@@ -93,6 +93,10 @@ text
 Screenshot	Description
 ![Interface](https://github.com/user-attachments/assets/f26734b1-8337-42c7-a932-b1d52976929a)(screenshots Main Interface: The application's main dashboard, showing the AI Vision Assistant GUI with live camera feed, chat window, and controls.
 
+![image](https://github.com/user-attachments/assets/5f719168-35b7-4202-9a67-1b8a21e484c2) screenshot showing active links to chainlink VRF
+
+![image](https://github.com/user-attachments/assets/897830dd-fa40-4f7c-a8a8-0700d70ae1c1) chainlink VRF dashboard
+
 ![art![art_generation_prompt](https://github.com/user-attachments/assets/e1fba6b3-b3de-439f-aa87-fff0299bd5a7)(screenshots/art_generation AI Art Generation Prompt: User entering a text prompt to generate AI art using Stability AI.	
 
 ![![chatbot_description](https://github.com/user-attachments/assets/fb08cad8-c03d-4282-a9ea-2f7e47bcaf96)(screenshots/chatbot_description:** The chatbot interface, demonstrating contextual AI conversation and assistant capabilities.	
