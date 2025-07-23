@@ -1,10 +1,14 @@
 # AI Vision Assistant with Chainlink Integration
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Chainlink](https://img.shields.io/badge/Chainlink-VRF-green)
+![ESP32](https://img.shields.io/badge/ESP32-DevKit-blue)
+![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
+![React](https://img.shields.io/badge/React-18-blue)
+![MetaMask](https://img.shields.io/badge/MetaMask-Web3-orange)
 ![Ethereum](https://img.shields.io/badge/Ethereum-Sepolia-purple)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.8-orange)
-![Stability AI](https://img.shields.io/badge/Stability%20AI-SD3-lightgrey)
+![Hardhat](https://img.shields.io/badge/Hardhat-Testing%20&%20Deploy-yellow)
+![Solidity](https://img.shields.io/badge/Solidity-0.8.19-black)
+![Alchemy](https://img.shields.io/badge/Alchemy-API-lightblue)
+![RFID](https://img.shields.io/badge/RFID-MFRC522-red)
 
 An  AI assistant combining computer vision, facial recognition, blockchain technology, and conversational AI. Features real-time crypto data feeds via Chainlink and verifiably random NFT generation using Chainlink VRF. Stores sketches (pixel or pencil style) created of faces as NFTs. Can also communicate through speech. 
 
